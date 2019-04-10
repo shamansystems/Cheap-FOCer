@@ -1,6 +1,8 @@
 # Cheap-FOCer
 BLDC Motor Controller based on the VESC 4.12 hardware
 
+
+
 Advantages
 
 Lower build and BOM cost
@@ -14,6 +16,8 @@ Added ON/OFF capability to turn off control circuitry when controller is not in 
 Can fit in typical “350W” ebike enclosures
 
 Can fit in Hammond 1590b enclosures
+
+
 
 Disadvantages (that I know of)
 
