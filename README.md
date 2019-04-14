@@ -1,6 +1,6 @@
 # Cheap-FOCer (Beta)
 BLDC Motor Controller based on the VESC 4.12 hardware
-
+![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/angled.JPG)
 ## Advantages
 -All functional features of VESC 4.12
 
