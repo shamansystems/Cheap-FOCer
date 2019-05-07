@@ -26,7 +26,7 @@ BLDC Motor Controller based on the VESC 4.12 hardware
 
 -Additional assembly steps to beef up high-current traces. 2 layers of 1oz copper can’t handle the current flowing through during operation. Assembler will have to apply wire/solder wick/bus bar to the exposed Power, Ground, and Phase traces that you can see in the images.
 
-##Problems with Beta so far
+## Problems with Beta so far
 
 -Pin 2 of SERVO header not connected to 5V+
 
