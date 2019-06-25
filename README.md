@@ -30,6 +30,7 @@ BLDC Motor Controller based on the VESC 4.12 hardware
 ## Problems with Beta so far
 
 -Pin 2 of SERVO header not connected to 5V+
+-Suspected issues with VESC firmware 3.5 and higher. Firmware before 3.5 is recommended
 
 ## Software/Firmware Requirements
 
