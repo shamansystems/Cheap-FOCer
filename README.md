@@ -1,4 +1,4 @@
-# Cheap-FOCer (Beta)
+# Cheap-FOCer V1.0
 BLDC Motor Controller based on the VESC 4.12 hardware
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/Beta.jpeg)
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/Beta%20back.jpeg)
@@ -27,11 +27,6 @@ BLDC Motor Controller based on the VESC 4.12 hardware
 
 -Additional assembly steps to beef up high-current traces. 2 layers of 1oz copper can’t handle the current flowing through during operation. Assembler will have to apply wire/solder wick/bus bar to the exposed Power, Ground, and Phase traces that you can see in the images.
 
-## Problems with Beta so far
-
--Pin 2 of SERVO header not connected to 5V+
-
--Suspected issues with VESC firmware 3.5 and higher. Firmware before 3.5 is recommended
 
 ## Software/Firmware Requirements
 
