@@ -31,6 +31,8 @@ pinouts
 
 -Additional assembly steps to beef up high-current traces. 2 layers of 1oz copper can’t handle the current flowing through during operation. Assembler will have to apply wire/solder wick/bus bar to the exposed Power, Ground, and Phase traces that you can see in the images.
 
+## Warning
+-Issues may be present with VESC firmware 3.50 and above. Recommended to use firmware versions before 3.5
 
 ## Software/Firmware Requirements
 
