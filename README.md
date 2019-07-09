@@ -38,5 +38,8 @@ pinouts
 
 Cheap FOCer is based on the VESC 4.12 and uses the relavent VESC firmware/software.
 
+## Support Thread
+- https://forum.esk8.news/t/cheap-focer-vesc-compatible-4-12-redesign/1510
+
 ## License
 Cheap FOCer is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
