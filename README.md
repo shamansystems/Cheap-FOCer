@@ -1,8 +1,10 @@
 # Cheap-FOCer V1.0
 BLDC Motor Controller based on the VESC 4.12 hardware
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/Beta.jpeg)
+
 image of beta
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/Beta%20back.jpeg)
+
 image of beta
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/v1.0%20bottom.JPG)
 Bottom of V1.0. note the hole underneath the DRV for the ground pad
