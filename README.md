@@ -3,6 +3,8 @@ BLDC Motor Controller based on the VESC 4.12 hardware
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/Beta.jpeg)
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/Beta%20back.jpeg)
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/Header%20Pinout.jpg)
+![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/v1.0%20bottom.JPG)
+note the hole underneath the DRV for the ground pad
 
 ## Advantages
 -All functional features of VESC 4.12
