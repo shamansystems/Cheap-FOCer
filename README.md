@@ -1,3 +1,8 @@
+# ATTENTION! #
+The Cheap FOCer 2 has been released and is recommended for new designs.
+https://github.com/shamansystems/Cheap-FOCer-2
+
+
 # Cheap-FOCer v1.0
 BLDC Motor Controller based on the VESC 4.12 hardware
 ![alt text](https://github.com/shamansystems/Cheap-FOCer/blob/master/Beta.jpeg)
